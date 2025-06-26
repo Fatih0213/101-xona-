@@ -72,3 +72,4 @@ index.html
   </div>
 </body>
 </html>
+delete README.md
